@@ -1,7 +1,7 @@
 # CDCS Summer School 2024
 ## A Gentle Introduction to Coding for Data Analysis
 
-This is a repository for all the materials for Stream 1 of the CDCS 2024 summer school. This repository is currently in a maintenance phase before the start of the summer school and will be ready for public viewing by 07/06/2024. For current queries, please message Chris Oldnall through the newly established Teams channel.
+This is a repository for all the materials for Stream 1 of the CDCS 2024 summer school. This repository is currently in a maintenance phase before the start of the summer school and will be ready for public viewing by 31/05/2024. For current queries, please message Chris Oldnall through the GitHub interface.
 
 ## Welcome.
 
